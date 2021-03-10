@@ -1,3 +1,4 @@
 # CaterhamCars
 Videos 
- Just a qucik bootstrap vid
+ Just a quick bootstrap vid
+
